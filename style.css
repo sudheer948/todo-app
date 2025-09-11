@@ -37,4 +37,24 @@ li {
     padding: 12px;
     margin-bottom: 8px;
     border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.completed {
+    text-decoration: line-through;
+    color: gray;
+}
+
+.delete {
+    background: none;
+    border: none;
+    color: red;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+span {
+    cursor: pointer;
 }
