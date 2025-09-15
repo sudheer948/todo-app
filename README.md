@@ -22,6 +22,7 @@ open index.html
 Or simply drag and drop index.html into your browser  
 
 📸 Demo  
+
 ![App Screenshot](img/Screenshot%202025-09-15%20200810.png)  
 
 📜 License  
